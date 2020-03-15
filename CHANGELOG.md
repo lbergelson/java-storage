@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.106.0](https://www.github.com/googleapis/java-storage/compare/v1.105.2...v1.106.0) (2020-03-15)
+
+
+### Features
+
+* add blob.uploadfrom(inputstream) ([#162](https://www.github.com/googleapis/java-storage/issues/162)) ([1f53baa](https://www.github.com/googleapis/java-storage/commit/1f53baa969331a94b5a73319df59711157ef2307))
+
 ### [1.105.2](https://www.github.com/googleapis/java-storage/compare/v1.105.1...v1.105.2) (2020-03-13)
 
 
